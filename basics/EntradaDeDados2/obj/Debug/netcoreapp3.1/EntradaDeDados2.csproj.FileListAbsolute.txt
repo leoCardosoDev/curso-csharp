@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/bin/Debug/netcoreapp3.1/EntradaDeDados2.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/bin/Debug/netcoreapp3.1/EntradaDeDados2.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/bin/Debug/netcoreapp3.1/EntradaDeDados2.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/bin/Debug/netcoreapp3.1/EntradaDeDados2.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/bin/Debug/netcoreapp3.1/EntradaDeDados2.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/EntradaDeDados2/obj/Debug/netcoreapp3.1/EntradaDeDados2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/bin/Debug/netcoreapp3.1/Desafio2OO.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/bin/Debug/netcoreapp3.1/Desafio2OO.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/bin/Debug/netcoreapp3.1/Desafio2OO.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/bin/Debug/netcoreapp3.1/Desafio2OO.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/bin/Debug/netcoreapp3.1/Desafio2OO.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Desafio2OO/obj/Debug/netcoreapp3.1/Desafio2OO.genruntimeconfig.cache

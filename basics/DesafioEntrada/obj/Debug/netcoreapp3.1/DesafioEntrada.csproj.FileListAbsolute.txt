@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/bin/Debug/netcoreapp3.1/DesafioEntrada.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/bin/Debug/netcoreapp3.1/DesafioEntrada.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/bin/Debug/netcoreapp3.1/DesafioEntrada.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/bin/Debug/netcoreapp3.1/DesafioEntrada.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/bin/Debug/netcoreapp3.1/DesafioEntrada.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/basics/DesafioEntrada/obj/Debug/netcoreapp3.1/DesafioEntrada.genruntimeconfig.cache

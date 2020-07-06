@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{AF9571EC-6BCC-4C1D-8209-0968C55D275E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Desafio2OO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Desafio2OO" expanded="True">
+            <Node name="Desafio2OO" expanded="True">
+              <Node name="MediaSalario.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

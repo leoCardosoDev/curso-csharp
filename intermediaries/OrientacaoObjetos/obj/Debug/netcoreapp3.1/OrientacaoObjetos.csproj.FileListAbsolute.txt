@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.deps.json
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.dll
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.pdb
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.dll
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.pdb
+/Users/leonardodeoliveirasilva/Projects/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.genruntimeconfig.cache

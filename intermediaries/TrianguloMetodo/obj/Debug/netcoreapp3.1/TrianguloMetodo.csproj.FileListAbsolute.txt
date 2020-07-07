@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/bin/Debug/netcoreapp3.1/TrianguloMetodo.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/bin/Debug/netcoreapp3.1/TrianguloMetodo.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/bin/Debug/netcoreapp3.1/TrianguloMetodo.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/bin/Debug/netcoreapp3.1/TrianguloMetodo.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/bin/Debug/netcoreapp3.1/TrianguloMetodo.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/TrianguloMetodo/obj/Debug/netcoreapp3.1/TrianguloMetodo.genruntimeconfig.cache

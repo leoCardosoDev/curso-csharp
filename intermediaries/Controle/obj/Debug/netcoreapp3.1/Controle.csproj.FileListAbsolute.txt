@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/bin/Debug/netcoreapp3.1/Controle.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/bin/Debug/netcoreapp3.1/Controle.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/bin/Debug/netcoreapp3.1/Controle.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/bin/Debug/netcoreapp3.1/Controle.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/bin/Debug/netcoreapp3.1/Controle.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/Controle/obj/Debug/netcoreapp3.1/Controle.genruntimeconfig.cache

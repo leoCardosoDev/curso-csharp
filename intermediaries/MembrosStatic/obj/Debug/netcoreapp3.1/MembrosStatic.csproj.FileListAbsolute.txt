@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/bin/Debug/netcoreapp3.1/MembrosStatic.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/bin/Debug/netcoreapp3.1/MembrosStatic.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/bin/Debug/netcoreapp3.1/MembrosStatic.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/bin/Debug/netcoreapp3.1/MembrosStatic.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/bin/Debug/netcoreapp3.1/MembrosStatic.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/MembrosStatic/obj/Debug/netcoreapp3.1/MembrosStatic.genruntimeconfig.cache

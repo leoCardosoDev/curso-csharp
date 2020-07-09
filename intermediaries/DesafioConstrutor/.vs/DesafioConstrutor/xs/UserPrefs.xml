@@ -1,23 +1,15 @@
 ﻿<Properties StartupConfiguration="{C75BEE54-76BC-4B0A-AEBE-16C7BD0D622F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContaBancaria.cs">
-    <Files>
-      <File FileName="Program.cs" Line="12" Column="2" />
-      <File FileName="ContaBancaria.cs" Line="4" Column="4" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DesafioConstrutor" expanded="True">
-            <Node name="DesafioConstrutor" expanded="True">
-              <Node name="ContaBancaria.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DesafioConstrutor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesafioConstrutor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

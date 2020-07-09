@@ -1,0 +1,12 @@
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/bin/Debug/netcoreapp3.1/DesafioConstrutor.deps.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/bin/Debug/netcoreapp3.1/DesafioConstrutor.runtimeconfig.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/bin/Debug/netcoreapp3.1/DesafioConstrutor.runtimeconfig.dev.json
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/bin/Debug/netcoreapp3.1/DesafioConstrutor.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/bin/Debug/netcoreapp3.1/DesafioConstrutor.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.csprojAssemblyReference.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.AssemblyInfoInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.AssemblyInfo.cs
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.csproj.CoreCompileInputs.cache
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.dll
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.pdb
+/Users/leonardodeoliveirasilva/Public/c_dot_net/intermediaries/DesafioConstrutor/obj/Debug/netcoreapp3.1/DesafioConstrutor.genruntimeconfig.cache
